@@ -2,9 +2,10 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/gist/kleberfreire/b67709cdf66e5c269212210646735fda/raw/6f0776a0cd6d3b0060c42f43306499a933a2717e/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kleber Freire</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kleberfreire&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web Developer Student 
+- 🔭 I’m currently working at [NCST]
 <!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
@@ -55,8 +56,6 @@
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a> -->
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
 <!--
