@@ -6,7 +6,6 @@
 
 - 🔥 Web Developer Student 
 - 🔭 I’m currently working at [NCST]
-<!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
 - 💬 Ask me about **JavaScript, HTML, CSS, React, NextJS, Node.JS**
 - ❤️ Love **self-knowledge, to dance, travel**
 
