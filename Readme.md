@@ -4,7 +4,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kleber Freire</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleberfreire&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer Student 
+- 🔥 Web Developer 
 - 🔭 I’m currently working at [NCST]
 - 💬 Ask me about **JavaScript, HTML, CSS, React, NextJS, Node.JS**
 - ❤️ Love **self-knowledge, to dance, travel**
