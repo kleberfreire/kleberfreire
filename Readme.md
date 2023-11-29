@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleberfreire&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web Developer 
-- 🔭 I’m currently working at [NCST]
+- 🔭 I’m currently working at [KFAPPS]
 - 💬 Ask me about **JavaScript, HTML, CSS, React, NextJS, Node.JS**
 - ❤️ Love **self-knowledge, to dance, travel**
 
